@@ -68,5 +68,5 @@ Upon successful execution, the script performs the following actions:
 ### **Sample Log Format:**
 | Filename | Prediction |
 | :--- | :--- |
-| `sample_image_01.jpg` | Dog |
-| `test_cat_04.png` | Cat |
+| `Screenshot 2026-03-27 021421.png` | cat |
+| `Screenshot 2026-03-27 021717.png` | dog |
